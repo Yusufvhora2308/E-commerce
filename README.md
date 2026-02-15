@@ -31,7 +31,8 @@ This is a full-featured E-Commerce website built using Laravel.
 ### 🧑‍💼 Admin Dashboard
 ![Admin](https://github.com/Yusufvhora2308/E-commerce/blob/main/public/screenshort/admindashboard.png)
 
-
+URL: Register Blade
+http://127.0.0.1:8000/account/register
 
 
 
