@@ -22,7 +22,7 @@ This is a full-featured E-Commerce website built using Laravel.
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](https://raw.githubusercontent.com/Yusufvhora2308/E-commerce/main/screenshort/home.png)
+![Home](https://github.com/Yusufvhora2308/E-commerce/blob/main/public/screenshort/home.png)
 
 ### 🔐 Login Page
 ![Login](https://raw.githubusercontent.com/Yusufvhora2308/E-commerce/main/screenshort/login.png)
