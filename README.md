@@ -29,7 +29,7 @@ This is a full-featured E-Commerce website built using Laravel.
 
 
 ### 🧑‍💼 Admin Dashboard
-![Admin](https://raw.githubusercontent.com/Yusufvhora2308/E-commerce/main/screenshort/admindashboard.png)
+![Admin](https://github.com/Yusufvhora2308/E-commerce/blob/main/public/screenshort/home.png)
 
 
 
